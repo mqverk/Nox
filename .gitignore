@@ -1,0 +1,9 @@
+/target
+/nox-ui/node_modules
+/nox-ui/.next
+/nox-ui/out
+/nox-ui/.turbo
+/nox-ui/.cache
+/nox-ui/npm-debug.log
+/nox-ui/yarn-error.log
+.DS_Store
